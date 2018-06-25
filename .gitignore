@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# bundle
+/dist/bundle.js
+
+# yarn
+yarn.lock
+yarn-error.log
