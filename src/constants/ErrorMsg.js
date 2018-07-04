@@ -1,0 +1,5 @@
+export const INACTIVE_PROMO_CODE = 'This promo code is inactive'
+export const PROMO_CODE_NOT_FOUNT = 'This promo code is not available in system'
+export const LIMIT_USED_PROMO_CODE = 'This promo code is limit'
+export const PERSON_LOWER_THAN_CONDITION = 'Person is lower than '
+export const BILL_SUB_TOTAL_LOWER_THAN_CONDITION = 'Bill sub total is lower than '
