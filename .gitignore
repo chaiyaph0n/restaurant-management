@@ -4,6 +4,9 @@
 # bundle
 /dist/bundle.js
 
+# vscode
+/.vscode
+
 # yarn
 yarn.lock
 yarn-error.log
